@@ -1,0 +1,27 @@
+{
+  "name": "shoot-the-server",
+  "version": "1.0.0",
+  "description": "Server for an encrypted chat application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniversalSuperBox/shoot-the-server.git"
+  },
+  "keywords": [
+    "encrypted",
+    "chat",
+    "socket.io"
+  ],
+  "author": "Hunter Stockdill, Dalton Durst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UniversalSuperBox/shoot-the-server/issues"
+  },
+  "homepage": "https://github.com/UniversalSuperBox/shoot-the-server#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
